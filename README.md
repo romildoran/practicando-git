@@ -6,4 +6,5 @@ En este curso aprenderás:
 - Creacion de un repositorio
 - Comandos básicos
 - Trabajo colaborativo
+- Trabajo con ramas remotas
 - ... y mucho más
