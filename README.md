@@ -8,3 +8,6 @@ En este curso aprenderás:
 - Trabajo colaborativo
 - Trabajo con ramas remotas
 - ... y mucho más
+
+## Ya tenemos rama developmen
+Ahora tenemos dos ramas en el proyecto
